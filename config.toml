@@ -1,0 +1,8 @@
+# Simpan sebagai .streamlit/config.toml di folder yang sama dengan rsa_dashboard.py
+[theme]
+base = "light"
+primaryColor = "#0F7C7A"
+backgroundColor = "#F1F5F4"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#12262D"
+font = "sans serif"
